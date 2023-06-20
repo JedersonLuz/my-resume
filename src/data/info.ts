@@ -81,7 +81,7 @@ export const info = {
     twitter: "https://twitter.com/Jederson_Luz",
     github: "https://github.com/JedersonLuz",
     email: "mailto:jedersonalpha@gmail.com",
-    linkedin: "https://www.linkedin.com/in/Jederson_Luz/",
+    linkedin: "https://www.linkedin.com/in/jedersonluz/",
   },
 
   projects: [
