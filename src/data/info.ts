@@ -1,11 +1,11 @@
 export const info = {
   baseUrl: "https://jedersonluz.dev",
   name: "Jederson Luz",
-  jobDescription: "Machine Learning Engineer",
-  about: `I'm a Software and Machine Learning Engineer undergraduate with a 
-  Bachelor's in Information Systems at the Federal University of Piauí - UFPI and a
-  Master's student in Electrical Engineering at the Federal University of Piauí - UFPI.
-  I'm currently working on my projects building solutions with web and mobile apps, and machine learning.`,
+  jobDescription: "ML Engineer & Co-Founder at Zumbeedo",
+  about: `I'm a Software Engineer and ML Engineer, and also a Co-Founder at Zumbeedo, a startup focused on developing 
+          solutions for beekeepers using artificial intelligence and audio signal processing techniques.
+          Also, I'm a Master's student in Electrical Engineering, with an emphasis on
+          Computational Intelligence, at the Federal University of Piauí (UFPI).`,
 
   experience: [
     {
@@ -14,9 +14,9 @@ export const info = {
       startDate: "May 2021",
       endDate: "Nov 2022",
       description: [
-        `I work helping in the process of continuous improvement of one of the company's artificial intelligence products, 
-        R.E.A. (Real Estate Analysis), where I work developing solutions with computer vision and natural language processing,
-        developing artificial intelligence models. In addition, I assist in the process of developing and improving the 
+        `I worked helping in the process of continuous improvement of one of the company's artificial intelligence products, 
+        R.E.A. (Real Estate Analysis), where I worked developing solutions with computer vision and natural language processing,
+        developing artificial intelligence models. In addition, I helped in the process of developing and improving the 
         team's dataset annotation tool.`,
       ],
     },
