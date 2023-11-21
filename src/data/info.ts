@@ -2,10 +2,9 @@ export const info = {
   baseUrl: "https://jedersonluz.dev",
   name: "Jederson Luz",
   jobDescription: "ML Engineer & Co-Founder at Zumbeedo",
-  about: `I'm a Software Engineer and ML Engineer, and also a Co-Founder at Zumbeedo, a startup focused on developing 
-          solutions for beekeepers using artificial intelligence and audio signal processing techniques.
-          Also, I'm a Master's student in Electrical Engineering, with an emphasis on
-          Computational Intelligence, at the Federal University of Piauí (UFPI).`,
+  about: `I'm Co-Founder, Software and ML Engineer at Zumbeedo, a startup focused on developing solutions for beekeepers 
+         using artificial intelligence and audio signal processing techniques. Also, I'm a Master's student in Electrical
+         Engineering, with an emphasis on Computational Intelligence, at the Federal University of Piauí (UFPI).`,
 
   experience: [
     {
